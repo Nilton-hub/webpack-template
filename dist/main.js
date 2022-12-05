@@ -1,0 +1,1 @@
+(()=>{const o=(n={a:1},a={name:"Nilton"},{...n,...a});var n,a;console.log(o)})();
